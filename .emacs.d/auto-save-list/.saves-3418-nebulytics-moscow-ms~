@@ -1,0 +1,4 @@
+/usr/local/opt/percona-server/support-files/my-default.cnf
+/usr/local/opt/percona-server/support-files/#my-default.cnf#
+/private/etc/my.cnf
+/private/etc/#my.cnf#

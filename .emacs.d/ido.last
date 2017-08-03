@@ -1,0 +1,426 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/mikhail/projects/me/go/src/github.com/mikhsol/meetme/src/" . "entities/")
+ ("/home/mikhail/projects/me/go/src/github.com/mikhsol/meetme/" . "src/")
+ ("/home/mikhail/projects/me/go/src/github.com/tleyden/" . "checkers-bot-minimax/")
+ ("/home/mikhail/projects/me/go/src/github.com/mikhsol/" . "meetme/")
+ ("/home/mikhail/projects/me/go/src/github.com/GoesToEleven/GolangTraining/01_getting-started/" . "01_helloWorld/")
+ ("/home/mikhail/projects/me/go/src/github.com/GoesToEleven/GolangTraining/" . "01_getting-started/")
+ ("/home/mikhail/projects/me/go/src/github.com/GoesToEleven/" . "GolangTraining/")
+ ("/home/mikhail/projects/me/travelTaxi/marketing/votetour-marketing/src/" . "tests/")
+ ("/home/mikhail/projects/me/travelTaxi/marketing/votetour-marketing/" . "src/")
+ ("/home/mikhail/projects/me/travelTaxi/marketing/charts/" . "passengers_serving/")
+ ("/home/mikhail/projects/me/travelTaxi/marketing/" . "votetour-marketing/")
+ ("/home/mikhail/projects/me/travelTaxi/" . "preparation/")
+ ("/home/mikhail/projects/me/travelTaxi/prototype/marketing/charts/" . "passengers_serving/")
+ ("/home/mikhail/projects/me/yandex-contest/2017/" . "1/")
+ ("/home/mikhail/projects/me/travelTaxi/prototype/api/api/" . "config/")
+ ("/home/mikhail/projects/me/travelTaxi/prototype/api/management/" . "commands/")
+ ("/home/mikhail/projects/me/travelTaxi/prototype/web/" . "src/")
+ ("/home/mikhail/projects/me/travelTaxi/prototype/api/" . "api/")
+ ("/home/mikhail/projects/me/travelTaxi/prototype/" . "web/")
+ ("/home/mikhail/projects/me/comments_smth/comment_engine/" . "templates/")
+ ("/home/mikhail/projects/me/comments_smth/" . "comment_engine/")
+ ("/home/mikhail/projects/me/travelTaxi/preparation/" . "selenium-pf-scrapper/")
+ ("/home/mikhail/projects/me/travelTaxi/preparation/selenium-pf-scrapper/" . "data/")
+ ("/home/mikhail/projects/me/travetTaxi/preparation/" . "private-fly/")
+ ("/home/mikhail/projects/me/travetTaxi/" . "preparation/")
+ ("/home/mikhail/projects/me/angular/" . "tour-of-heroes/")
+ ("/home/mikhail/projects/me/angular/tour-of-heroes/src/" . "app/")
+ ("/home/mikhail/projects/me/angular/tour-of-heroes/" . "src/")
+ ("/home/mikhail/projects/me/meetMe/web/" . "src/")
+ ("/home/mikhail/projects/me/meetMe/web/src/" . "environments/")
+ ("/home/mikhail/projects/me/c/" . "c_double_linked_list/")
+ ("/home/mikhail/projects/me/c/crackingTheCodingInterview/" . "linkedLists/")
+ ("/home/mikhail/projects/me/go/src/github.com/MikhSol/" . "stringutil/")
+ ("/home/mikhail/projects/me/go/src/github.com/" . "mikhsol/")
+ ("/home/mikhail/projects/me/go/src/" . "github.com/")
+ ("/home/mikhail/projects/me/go/" . "src/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-web/src/app/analytics/" . "d3-map/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-web/.tmp/serve/" . "app/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-web/.tmp/" . "serve/")
+ ("/home/mikhail/projects/me/" . "travelTaxi/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-web/bower_components/" . "rickshaw/")
+ ("/home/mikhail/.gnome/" . "apps/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-web/dist/" . "styles/")
+ ("/home/mikhail/projects/me/zeromq_test/" . "simple_client/")
+ ("/home/mikhail/projects/moonshotcapital/" . "company_details/")
+ ("/home/mikhail/projects/" . "me/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/www/lib/ngCordova/demo/www/" . "lib/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/www/lib/ngCordova/demo/" . "www/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/www/lib/ionic/" . "js/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/platforms/android/phonegap-facebook-plugin/" . "brewguidemobile576084-FacebookLib/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/www/lib/ngCordova/src/" . "mocks/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/www/lib/ngCordova/" . "demo/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/plugins/" . "phonegap-facebook-plugin/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/hooks/" . "after_prepare/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/platforms/android/res/" . "values/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/platforms/android/" . "res/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/platforms/" . "android/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/www/lib/" . "ngCordova/")
+ ("/home/mikhail/projects/webcleats/ba/brewguideapi/brewguideapi/apps/account/" . "migrations/")
+ ("/home/mikhail/anaconda3/envs/py35/lib/python3.5/site-packages/" . "bs4/")
+ ("/home/mikhail/anaconda3/envs/py35/lib/python3.5/" . "site-packages/")
+ ("/home/" . "mikhail/")
+ ("/home/mikhail/anaconda3/envs/py35/share/" . "info/")
+ ("/home/mikhail/anaconda3/envs/py35/lib/" . "python3.5/")
+ ("/home/mikhail/anaconda3/envs/py35/" . "lib/")
+ ("/home/mikhail/anaconda3/envs/" . "py35/")
+ ("/home/mikhail/anaconda3/" . "envs/")
+ ("/home/mikhail/" . ".emacs.d/")
+ ("/home/mikhail/projects/webcleats/ba/brewguideapi/brewguideapi/apps/brewery/" . "migrations/")
+ ("/home/mikhail/projects/webcleats/ba/brewguideapi/brewguideapi/apps/" . "analytics/")
+ ("/home/mikhail/projects/webcleats/ba/brewguideapi/brewguideapi/" . "apps/")
+ ("/home/mikhail/projects/webcleats/ba/brewguideapi/" . "brewguideapi/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/www/js/" . "services/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/www/" . "js/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-web/src/app/" . "signup/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-web/src/" . "app/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-web/" . "src/")
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/" . "www/")
+ ("/home/mikhail/projects/webcleats/ba/" . "brewguide-mobile/")
+ ("/home/mikhail/projects/webcleats/scout_webpack/src/app/" . "+detail/")
+ ("/home/mikhail/projects/webcleats/scout_webpack/src/" . "app/")
+ ("/home/mikhail/projects/webcleats/" . "ba/")
+ ("/home/mikhail/projects/webcleats/scout/src/app/" . "summary/")
+ ("/home/mikhail/projects/webcleats/scout/dist/app/" . "summary/")
+ ("/home/mikhail/projects/webcleats/scout/dist/" . "app/")
+ ("/home/mikhail/projects/webcleats/scout/src/" . "app/")
+ ("/home/mikhail/projects/webcleats/scout/" . "gulp/")
+ ("/Users/mikhailsolodovnikov/projects/coursera/ml_hse/week1/assignment1/" . "lesson_3/")
+ ("/Users/mikhailsolodovnikov/projects/coursera/ml_hse/.git/" . "info/")
+ ("/Users/mikhailsolodovnikov/projects/coursera/ml_hse/" . ".git/")
+ ("/Users/mikhailsolodovnikov/projects/Coursera/python_for_web/" . "assignement_3/")
+ ("/Users/mikhailsolodovnikov/projects/Coursera/" . "python_for_web/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/database-plugins/" . "auth_password/")
+ ("/Users/mikhailsolodovnikov/projects/Kaggle/titanikML/" . "triangleinequality_solution/")
+ ("/Users/mikhailsolodovnikov/dev/nebulytics/WebCore/web-app/" . "js/")
+ ("/Users/mikhailsolodovnikov/dev/nebulytics/WebCore/" . "web-app/")
+ ("/Users/mikhailsolodovnikov/projects/Coursera/scicomp/uwhpsc/lectures/" . "lecture1/")
+ ("/Users/mikhailsolodovnikov/projects/BlackWall/blackwall_prototype/" . "css/")
+ ("/Users/mikhailsolodovnikov/projects/BlackWall/" . "blackwall_prototype/")
+ ("/tmp/" . "nebulytics/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/WebCore/grails-app/views/" . "layouts/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/WebCore/web-app/" . "js/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/WebCore/grails-app/services/com/" . "nebulytics/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/WebCore/grails-app/services/" . "com/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/database/generated/" . "Nebulytics/")
+ ("/Users/mikhailsolodovnikov/projects/Python/" . "MongoDBUdacity/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/WebCore/grails-app/utils/com/" . "nebulytics/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/WebCore/grails-app/utils/" . "com/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/WebCore/grails-app/" . "views/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/WebCore/" . "grails-app/")
+ ("/Users/mikhailsolodovnikov/projects/Lisp/" . "SCIP/")
+ ("/Users/mikhailsolodovnikov/projects/NebuliticsWebsite/" . "test/")
+ ("/Users/mikhailsolodovnikov/projects/Groovy/collab_todo/web-app/" . "WEB-INF/")
+ ("/Users/mikhailsolodovnikov/projects/Groovy/collab_todo/grails-app/views/" . "common/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/projects/logistics/" . "ui/")
+ ("/Users/mikhailsolodovnikov/projects/Groovy/collab_todo/grails-app/domain/" . "collab_todo/")
+ ("/Users/mikhailsolodovnikov/projects/Groovy/collab_todo/test/unit/" . "collab_todo/")
+ ("/Users/mikhailsolodovnikov/projects/Groovy/collab_todo/test/" . "unit/")
+ ("/Users/mikhailsolodovnikov/projects/Groovy/collab_todo/grails-app/controllers/" . "collab_todo/")
+ ("/Users/mikhailsolodovnikov/projects/Groovy/collab_todo/grails-app/" . "views/")
+ ("/Users/mikhailsolodovnikov/projects/Groovy/collab_todo/" . "grails-app/")
+ ("/Users/mikhailsolodovnikov/projects/Groovy/" . "collab_todo/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/" . "database-plugins/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/database/" . "misc/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/projects/registry/" . "misc/")
+ ("/Users/mikhailsolodovnikov/serverDev/nebulytics/projects/" . "registry/")
+ ("/Users/mikhailsolodovnikov/serverDev/" . "nebulytics/")
+ ("/Users/mikhailsolodovnikov/dev/nebulytics/database/" . "sprocs/")
+ ("/Users/mikhailsolodovnikov/.emacs.d/" . "lisp/")
+ ("/Users/mikhailsolodovnikov/dev/nebulytics/projects/registry/" . "sprocs/")
+ ("/Users/mikhailsolodovnikov/dev/nebulytics/projects/" . "registry/")
+ ("/Users/mikhailsolodovnikov/dev/" . "nebulytics/")
+ ("/Users/" . "mikhailsolodovnikov/")
+ ("/Users/mikhailsolodovnikov/Documents/ShareVM/nebulytics/database/" . "sprocs/")
+ ("/Users/mikhailsolodovnikov/Documents/ShareVM/nebulytics/projects/logistics/" . "tables/")
+ ("/Users/mikhailsolodovnikov/Documents/ShareVM/nebulytics/projects/" . "logistics/")
+ ("/Users/mikhailsolodovnikov/Documents/ShareVM/nebulytics/" . "projects/")
+ ("/Users/mikhailsolodovnikov/Documents/ShareVM/" . "nebulytics/")
+ ("/Users/mikhailsolodovnikov/Documents/" . ".parallels-vm-directory/")
+ ("/Users/mikhailsolodovnikov/" . "projects/")
+ ("/Users/mikhailsolodovnikov/projects/" . "python/")
+ ("/usr/local/opt/percona-server/" . "support-files/")
+ ("/usr/local/opt/" . "percona-server/")
+ ("/etc/" . "apache2/")
+ ("/usr/local/" . "opt/")
+ ("/usr/" . "local/")
+ ("/" . "etc/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/mikhail/projects/me/lisp/"
+ "/home/mikhail/"
+ "/home/mikhail/projects/me/go/src/github.com/mikhsol/meetme/src/entities/"
+ "/home/mikhail/projects/me/go/src/github.com/mikhsol/meetme/src/"
+ "/home/mikhail/projects/me/go/src/github.com/mikhsol/meetme/test/"
+ "/home/mikhail/Documents/me/cv/CV_Eng/cv_latest/"
+ "/home/mikhail/projects/me/go/src/github.com/mikhsol/playground/"
+ "/home/mikhail/projects/me/go/src/github.com/tleyden/checkers-bot-minimax/"
+ "/home/mikhail/projects/me/go/src/github.com/mikhsol/hello-world/"
+ "/home/mikhail/projects/me/go/src/github.com/GoesToEleven/GolangTraining/01_getting-started/01_helloWorld/"
+ "/home/mikhail/projects/me/travelTaxi/marketing/votetour-marketing/src/"
+ "/home/mikhail/projects/me/travelTaxi/marketing/votetour-marketing/src/tests/"
+ "/home/mikhail/projects/me/travelTaxi/marketing/votetour-marketing/data/"
+ "/home/mikhail/projects/webcleats/ba/brewguideapi/brewguideapi/apps/account/"
+ "/home/mikhail/projects/me/travelTaxi/preparation/selenium-pf-scrapper/"
+ "/home/mikhail/projects/me/travelTaxi/marketing/charts/passengers_serving/"
+ "/home/mikhail/projects/me/travelTaxi/prototype/marketing/charts/passengers_serving/"
+ "/home/mikhail/projects/me/travelTaxi/prototype/marketing/charts/"
+ "/home/mikhail/projects/me/travelTaxi/"
+ "/home/mikhail/projects/me/test/"
+ "/home/mikhail/projects/me/yandex-contest/2017/1/"
+ "/home/mikhail/projects/me/travelTaxi/prototype/api/api/"
+ "/home/mikhail/projects/me/travelTaxi/prototype/api/"
+ "/home/mikhail/projects/me/travelTaxi/prototype/api/api/config/"
+ "/home/mikhail/projects/me/travelTaxi/prototype/api/functional_tests/"
+ "/home/mikhail/projects/me/travelTaxi/prototype/api/management/commands/"
+ "/home/mikhail/projects/me/travelTaxi/prototype/web/src/"
+ "/home/mikhail/projects/me/travelTaxi/prototype/web/"
+ "/home/mikhail/projects/me/comments_smth/comment_engine/templates/"
+ "/home/mikhail/projects/me/comments_smth/comment_engine/static/"
+ "/home/mikhail/projects/me/comments_smth/comment_engine/db/"
+ "/home/mikhail/projects/me/comments_smth/comment_engine/"
+ "/home/mikhail/projects/me/travelTaxi/preparation/private-fly/"
+ "/home/mikhail/Documents/me/CV_Eng/cv_latest/"
+ "/home/mikhail/projects/me/travetTaxi/preparation/private-fly/"
+ "/home/mikhail/projects/moonshotcapital/company_details/"
+ "/home/mikhail/projects/me/travetTaxi/preparation/private-jet/"
+ "/home/mikhail/projects/me/angular/tour-of-heroes/src/app/"
+ "/home/mikhail/projects/me/meetMe/web/"
+ "/home/mikhail/projects/me/meetMe/web/src/"
+ "/home/mikhail/projects/me/meetMe/web/src/environments/"
+ "/home/mikhail/projects/me/meetMe/web/src/app/"
+ "/home/mikhail/projects/me/c/crackingTheCodingInterview/linkedLists/"
+ "/home/mikhail/projects/me/c/c_double_linked_list/"
+ "/home/mikhail/projects/me/c/crackingTheCodingInterview/"
+ "/home/mikhail/projects/me/go/src/github.com/MikhSol/stringutil/"
+ "/home/mikhail/projects/me/go/src/github.com/MikhSol/hello/"
+ "/home/mikhail/projects/me/test_tasks/punctured_array/"
+ "/home/mikhail/projects/webcleats/ba/brewguide-mobile/www/js/services/"
+ "/home/mikhail/projects/webcleats/ba/brewguideapi/brewguideapi/apps/analytics/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "hello-world.lisp"
+ ".emacs"
+ "entities.go"
+ "main.go"
+ "user.go"
+ "entities_test.go"
+ "miksolodovnikov_cv.tex"
+ "test0.go"
+ "playground"
+ "thinker.go"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/www/js/services/" (22589 19852 256143 511000) "socialsharing.service.js" "beer.service.js" "ad.service.js" "message.service.js" "bad-request.interceptor.js" "./" "signup.service.js" "map.service.js" "bad-request.service.js" "authentication.service.js" "authentication.interceptor.js" "definition.service.js" "me.service.js" "brewery.service.js" "../" "dictionary.service.js")
+
+ ("/home/mikhail/projects/me/travelTaxi/marketing/votetour-marketing/data/" (22849 9003 146252 583000) "data-psl.csv" "./" "data-pt.csv" "data-ps.csv" "data-cl.csv" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/marketing/votetour-marketing/src/tests/" (22849 2364 723009 938000) "test_data.csv" "./" "__pycache__/" "__init__.py" "test_chart.py" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/marketing/votetour-marketing/src/" (22849 9057 902850 776000) "commercial_load.py" "chart.py" "./" "__pycache__/" "passengers_seats_load.py" "passangers_dynamic.py" "tests/" "__init__.py" ".git/" ".gitignore" "../" "passanger_turnover.py" "results/")
+
+ ("/home/mikhail/projects/me/go/src/github.com/mikhsol/hello-world/" (22879 39025 549502 351000) "main.go" "./" ".idea/" "../")
+
+ ("/home/mikhail/Documents/me/cv/CV_Eng/cv_latest/" (22911 17949 642289 491000) "LICENSE" "README.md" "miksolodovnikov_cv.aux" "./" "miksolodovnikov_cv.pdf" "miksolodovnikov_cv.tex" "miksolodovnikov_cv.log" "miksolodovnikov_cv.out" ".git/" "../")
+
+ ("/home/mikhail/projects/me/go/src/github.com/mikhsol/meetme/test/" (22910 59001 63523 28000) "constants/" "./" "entities_test.go" "../")
+
+ ("/home/mikhail/projects/me/go/src/github.com/mikhsol/meetme/src/entities/" (22904 33781 470030 185000) "./" "entities.go" "../")
+
+ ("/home/mikhail/" (22913 43940 143842 206000) ".local/" "venvs/" ".Xauthority" ".pySopCast/" ".emacs.d/" ".IntelliJIdea2016.3/" ".gradle/" ".profile" ".sudo_as_admin_successful" "Templates/" ".emacs" ".yarnrc" ".adobe/" ".CLion2016.3/" ".IntelliJIdea2017.1/" "anaconda3/" ".dbus/" ".java/" ".IntelliJIdea2017.2/" "examples.desktop" ".continuum/" ".ViberPC/" ".ssh/" ".gvm/" ".mysql_history" ".gconf/" ".PyCharm2016.3/" ".nano/" "Android/" ".-01.kismet.netxml" ".lastpass/" ".slime-history.eld" ".node-gyp/" "rockyou/" ".wine/" ".-01.kismet.csv" ".ipython/" "./" ".cordova/" ".zcompdump" ".ICEauthority" ".-01.csv" ".python_history" ".ACEStream/" ".expo/" "keystores/" ".xsession-errors.old" ".pencil/" ".ionic/" ".gnome/" ".psql_history" "IdeaProjects/" ".vim/" ".v8flags.5.5.372.40.mikhail.json" ".pki/" ".gnupg/" ".kodi/" ".atom/" ".AndroidStudio2.1/" ".npm/" "Music/" ".bash_history" "Public/" ".PyCharm2017.1/" "projects/" ".emulator_console_auth_token" "Videos/" ".thunderbird/" "Link to projects/" ".sbclrc" ".macromedia/" ".zenmap/" ".zcompdump-supercool-5.1.1" ".v8flags.4.5.103.35.mikhail.json" ".config/" ".hardinfo/" "deja-dup/" ".bash_logout" ".mozilla/" "Desktop/" ".dmrc" ".python-eggs/" "Calibre Library/" ".gimp-2.8/" ".hashcat/" ".slime/" ".bashrc" ".Skype/" ".conda/" ".apport-ignore.xml" ".android/" ".compiz/" ".babel.json" ".viminfo" "quicklisp/" ".bash_aliases" "Pictures/" ".cache/" ".xsession-errors" ".gphoto/" ".remmina/" ".AndroidStudio2.2/" ".wget-hsts" "Applications/" ".purple/" ".xinputrc" "Books/" ".recently-used" ".v8flags.5.4.500.45.mikhail.json" ".quicklisp/" ".gitconfig" ".astropy/" ".thumbnails/" "Documents/" "../" ".bitcoin/" ".tmux.conf" "Downloads/")
+
+ ("/home/mikhail/projects/" (22888 44954 107950 606000) "me/" "leancore/" "webcleats/" "./" "moonshotcapital/" "../")
+
+ ("/home/mikhail/projects/me/" (22913 40858 714781 50000) "android/" "lisp/" "yandex-contest/" "diploma/" "./" "c/" "coverletterdscompetition/" "react-starter/" "angular/" "deepHackLab/" "go/" "travelTaxi/" "meetMe/" "test_tasks/" "zeromq_test/" "comments_smth/" "../" "test/")
+
+ ("/home/mikhail/projects/me/lisp/" (22913 40858 714781 50000) "./" "../")
+
+ ("/home/mikhail/projects/me/go/src/github.com/mikhsol/meetme/src/" (22904 33117 563756 949000) "main.go" "./" "entities/" "../")
+
+ ("/home/mikhail/projects/me/go/src/github.com/mikhsol/meetme/" (22904 26570 742969 263000) "./" "src/" "../" "test/")
+
+ ("/home/mikhail/projects/me/go/src/github.com/mikhsol/" (22904 26557 850771 311000) "hello-world/" "./" "meetme/" "playground/" "hello/" "stringutil/" "../")
+
+ ("/home/mikhail/projects/me/go/src/github.com/mikhsol/playground/" (22887 1086 400489 281000) "./" "playground" "test0.go" "../")
+
+ ("/home/mikhail/projects/me/go/src/github.com/tleyden/checkers-bot-minimax/" (22883 35767 185145 487000) "thinker.go" "README.md" "./" "run.sh" "checkers-bot-minimax" ".git/" ".gitignore" "architecture checkers minimax.graffle" "../")
+
+ ("/home/mikhail/projects/me/go/src/github.com/tleyden/" (22883 35493 657259 551000) "go-couch/" "./" "checkers-core/" "checkers-bot-minimax/" "checkers-bot/" "../")
+
+ ("/home/mikhail/projects/me/go/src/github.com/" (22883 35496 557300 866000) "dustin/" "nsf/" "rogpeppe/" "GoesToEleven/" "./" "mikhsol/" "nu7hatch/" "couchbaselabs/" "tleyden/" "../")
+
+ ("/home/" (22746 2176 249002 590000) "mikhail/" "./" "../")
+
+ ("/home/mikhail/.emacs.d/" (22883 34457 262212 554000) "recentf~" "lisp/" "eshell/" "ac-comphist.dat" "./" "color-theme-dark-emacs_files/" "color-theme-dark-emacs.el" ".DS_Store" "auto-save-list/" "elpa/" "ido.last" "xkcd/" "recentf" "url/" "../" "yasnippet/")
+
+ ("/home/mikhail/projects/me/go/src/" (22883 34170 633902 602000) "golang.org/" "./" "github.com/" "../")
+
+ ("/home/mikhail/projects/me/go/src/github.com/GoesToEleven/GolangTraining/01_getting-started/01_helloWorld/" (22879 36622 188032 170000) "main.go" "./" "../")
+
+ ("/home/mikhail/projects/me/go/src/github.com/GoesToEleven/GolangTraining/01_getting-started/" (22879 36622 192032 239000) "02_numeral-systems/" "./" "03_UTF-8/" "01_helloWorld/" "../")
+
+ ("/home/mikhail/projects/me/go/src/github.com/GoesToEleven/GolangTraining/" (22879 36622 508037 687000) "18_slice/" "24_testing/" "23_error-handling/" "README.md" "25_code-walk/" "04_scope/" "17_array/" "14_functions/" "13_exercise-solutions/" "LICENSE.txt" "06_constants/" "21_interfaces/" "./" "07_memory-address/" "10_for-loop/" "03_variables/" "27_code-in-process/" "01_getting-started/" "09_remainder/" "16_exercise-solutions/" "26_QUESTIONS-FROM-STUDENTS/" "08_pointers/" "19_map/" "15_bool-expressions/" "05_blank-identifier/" "20_struct/" ".git/" "12_if_else-if_else/" "22_go-routines/" ".gitignore" "11_switch-statements/" "../" "02_package/")
+
+ ("/home/mikhail/projects/me/go/src/github.com/GoesToEleven/" (22879 36555 526885 59000) "./" "../" "GolangTraining/")
+
+ ("/home/mikhail/projects/me/go/" (22879 33437 965954 159000) "bin/" "./" "pkg/" "src/" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/marketing/votetour-marketing/" (22847 41414 414510 757000) "bin/" "data/" "./" "pip-selfcheck.json" "src/" "lib/" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguide-web/src/app/signup/" (22560 53327 233653 971000) "verification.service.js" "verify-account.html" "verify-account.controller.js" "signup.html" "./" "signup.service.js" "signup.controller.js" "signup.module.js" "pending-verification.html" "pending-verification.controller.js" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/preparation/selenium-pf-scrapper/" (22847 41262 444767 696000) "selenium-pf-scraper.iml" "data_collector.py" "as_scraper.pyc" "process_data.py" "scraper.py" "pf_exceptions.py" "as_scraper.py" "./" "__pycache__/" "webDrivers/" "plane.py" "__init__,py" "pf_scraper.py" "trip.py" "cost.py" ".git/" "date.py" "query.py" ".idea/" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/preparation/" (22689 29531 120503 245000) "private-fly/" "data/" "./" "selenium-pf-scrapper/" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/marketing/" (22847 40932 509025 433000) "data/" "./" "votetour-marketing/" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/marketing/charts/passengers_serving/" (22847 39689 764900 901000) ".#chart.py" "chart.py" "./" "data.csv" "index.html" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/marketing/charts/" (22842 36063 627705 685000) "./" "passengers_serving/" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/" (22847 39487 703808 98000) "preparation/" "./" "ci_init.sh" "domains.txt" "prototype/" "marketing/" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/prototype/marketing/charts/passengers_serving/" (22842 42119 194212 688000) "./" "data.csv" "index.html" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/prototype/marketing/charts/" (22842 36063 627705 685000) "./" "passengers_serving/" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/prototype/" (22804 13686 665017 160000) "tools/" "votetour-web-airline/" "./" "prototype.iml" "npm-debug.log" "votetour-web-tourist/" "functional_tests/" ".idea/" "../" "votetour-api/")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguide-web/src/app/" (22708 8926 798384 633000) "signup/" "app.route.js" "images/" "brewery/" "./" "app.config.js" "message/" "index.scss" "user/" "analytics/" "login/" "main/" "app.run.js" "app.module.js" "services/" "local.config.js" "app.constants.js" "partials/" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguide-web/src/" (22707 62827 406444 750000) "./" "app/" "index.html" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguideapi/brewguideapi/" (22695 2342 217793 859000) "wsgi.py" "config/" "./" "__pycache__/" "settings.py" "common/" "celery.py" "apps/" "__init__.py" "urls.py" "../")
+
+ ("/home/mikhail/projects/me/comments_smth/comment_engine/" (22753 65299 583310 467000) "static/" "db/" "./" "start_server.py" "app.py" "../" "templates/")
+
+ ("/home/mikhail/projects/me/comments_smth/comment_engine/db/" (22753 65305 415402 18000) "regions.txt" "./" "__pycache__/" "manage_db.py" "__init__.py" "../")
+
+ ("/home/mikhail/projects/me/comments_smth/comment_engine/static/" (22753 64025 943341 502000) "view.js" "navigation.html" "comment.html" "./" "comment.js" "../")
+
+ ("/home/mikhail/projects/me/comments_smth/comment_engine/templates/" (22753 64019 787235 524000) "stat_regions.template" "./" "view.template" "stat_cities.template" "../")
+
+ ("/home/mikhail/projects/me/yandex-contest/2017/1/" (22788 19346 675075 41000) "./" "one.py" "../")
+
+ ("/home/mikhail/projects/me/yandex-contest/2017/" (22788 15120 230728 540000) "./" "1/" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/prototype/api/api/" (22759 36826 680051 91000) "wsgi.py" "config/" "./" "__pycache__/" "settings.py" "celery.py" "apps/" "__init__.py" "urls.py" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/prototype/api/" (22759 36802 415574 304000) "manage_local.py" "Dockerfile" "logs/" "docker-compose.yml" "manage.py" "./" "api/" "api.iml" ".coverage" ".dockerignore" ".git/" "requirements.txt" "functional_tests/" "manage_test.py" ".gitignore" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/prototype/api/functional_tests/" (22759 37040 740084 552000) "test_sign_in.py" "test_smoke.py" ".#test_sign_up.py" "screendumps/" "./" "__pycache__/" "config.py" "base.py" "test_sign_up.py" "web_drivers/" "__init__.py" ".gitignore" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/prototype/api/api/config/" (22759 36679 289077 420000) "config_docker.py" "./" "__pycache__/" "config_local.py" "__init__.py" "config_test.py" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/prototype/api/management/commands/" (22759 35510 326316 754000) "./" "functest.py" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/prototype/api/management/" (22759 35497 998124 55000) "./" "commands/" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/prototype/web/src/" (22758 27424 668695 304000) "actions/" "reducers/" "./" "template.html" "components/" "containers/" "index.js" "config.js" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/prototype/web/test/" (22747 32634 676357 752000) "actions/" "test_helper.js" "reducers/" "./" "components/" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/prototype/web/" (22756 60093 128160 528000) "public/" "webpack.config.js" ".jshintrc" "web.iml" "echo" "./" "webpack.loaders.js" "styles/" "postcss.config.js" ".eslintrc.yml" "webpack.production.config.js" "package.json" "src/" "npm-debug.log" "node_modules/" ".git/" ".gitignore" ".babelrc" "../" "yarn.lock" "test/")
+
+ ("/home/mikhail/projects/me/travelTaxi/preparation/private-fly/" (22688 45922 623752 756000) "./" "__pycache__/" "plane.py" "pf_scraper.py" "trip.py" "__init__.py" ".git/" "../")
+
+ ("/home/mikhail/projects/me/comments_smth/" (22753 57610 566890 603000) "./" "comment_engine/" "comment_engine.zip" "../")
+
+ ("/home/mikhail/projects/me/travelTaxi/preparation/selenium-pf-scrapper/data/" (22688 33833 970194 587000) "../" "./")
+
+ ("/home/mikhail/projects/me/test/" (22681 43674 464203 496000) "test.json" "./" "data.csv" "index.html" "cyclie_in_single_lincked_list" "../")
+
+ ("/home/mikhail/Documents/me/CV_Eng/cv_latest/" (22681 47360 119330 330000) "LICENSE" "README.md" "miksolodovnikov_cv.aux" "./" "miksolodovnikov_cv.pdf" "miksolodovnikov_cv.tex" "miksolodovnikov_cv.log" "miksolodovnikov_cv.out" ".git/" "../")
+
+ ("/home/mikhail/projects/me/travetTaxi/preparation/private-fly/" (22676 31998 33417 853000) "./" "__pycache__/" "plane.py" "pf_scraper.py" "trip.py" "__init__.py" ".git/" "../")
+
+ ("/home/mikhail/projects/me/angular/tour-of-heroes/src/app/" (22675 3540 361032 667000) "app.component.html" "./" "app.component.ts" "app.component.css" "app.component.spec.ts" "app.module.ts" "../")
+
+ ("/home/mikhail/projects/moonshotcapital/company_details/" (22676 17667 662728 114000) "red_rock_app.xls" "LICENSE.md" "cmp-details.py" "README.md" "company.py" "conf.py" "utils.py" "./" "red_rock_app_ln.xls" "person.py" ".git/" "app.py" "data_examples/" "../")
+
+ ("/home/mikhail/projects/moonshotcapital/" (22523 59274 548688 452000) "./" "company_details/" "../")
+
+ ("/home/mikhail/projects/me/travetTaxi/" (22676 13128 288389 472000) "preparation/" "./" "../")
+
+ ("/home/mikhail/projects/me/travetTaxi/preparation/" (22676 13507 611466 955000) "private-fly/" "./" "../")
+
+ ("/home/mikhail/projects/me/travetTaxi/preparation/private-jet/" (22676 13397 426071 256000) "./" "pj-scrapper.py" "__init__.py" "../")
+
+ ("/home/mikhail/projects/me/angular/" (22675 1623 439794 824000) "./" "tour-of-heroes/" "../")
+
+ ("/home/mikhail/projects/me/meetMe/" (22675 517 955933 237000) "LICENSE" "README.md" "./" "web/" "api/" ".git/" "mobile/" ".idea/" "../")
+
+ ("/home/mikhail/projects/me/meetMe/web/" (22675 1334 947430 180000) "e2e/" "README.md" "karma.conf.js" "./" "protractor.conf.js" "package.json" ".editorconfig" "src/" "node_modules/" "angular-cli.json" ".gitignore" "tslint.json" "../")
+
+ ("/home/mikhail/projects/me/angular/tour-of-heroes/src/" (22675 1623 495795 678000) "styles.css" "tsconfig.json" "environments/" "assets/" "main.ts" "./" "test.ts" "favicon.ico" "app/" "polyfills.ts" "index.html" "../")
+
+ ("/home/mikhail/projects/me/angular/tour-of-heroes/" (22675 1668 716486 2000) "e2e/" "README.md" "karma.conf.js" "./" "protractor.conf.js" "package.json" ".editorconfig" "src/" "node_modules/" "angular-cli.json" ".git/" ".gitignore" "tslint.json" "../")
+
+ ("/home/mikhail/projects/me/meetMe/web/src/environments/" (22675 518 11933 939000) "./" "environment.prod.ts" "environment.ts" "../")
+
+ ("/home/mikhail/projects/me/meetMe/web/src/app/" (22675 879 8772 704000) "app.component.html" "./" "app.component.ts" "app.component.css" "app.component.spec.ts" "app.module.ts" "../")
+
+ ("/home/mikhail/projects/me/test_tasks/punctured_array/" (22659 28945 841647 797000) "solution.js" "./" "../")
+
+ ("/home/mikhail/projects/me/c/crackingTheCodingInterview/" (22664 27089 266452 227000) "LICENSE" "README.md" "./" "linkedLists/" ".git/" "../" "out/")
+
+ ("/home/mikhail/projects/me/c/crackingTheCodingInterview/linkedLists/" (22664 50434 62462 850000) "solutions.c" "./" "solutions.h" "linked_lists_test.c" "../")
+
+ ("/home/mikhail/projects/me/meetMe/web/src/" (22675 518 11933 939000) "styles.css" "tsconfig.json" "environments/" "assets/" "main.ts" "./" "test.ts" "favicon.ico" "app/" "polyfills.ts" "index.html" "../")
+
+ ("/home/mikhail/projects/me/c/c_double_linked_list/" (22656 36589 513175 646000) "LICENSE" "README.md" "double_linked_list.h" "./" "double_linked_list.c" ".git/" "../" "out/")
+
+ ("/home/mikhail/projects/me/c/" (22649 64088 924134 564000) "c_double_linked_list/" "crackingTheCodingInterview/" "./" "../")
+
+ ("/home/mikhail/projects/me/go/src/github.com/MikhSol/stringutil/" (22618 51445 642133 147000) "reverse_test.go" "./" "reverse.go" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguide-web/src/app/services/" (22504 54111 221886 783000) "./" "services.module.js" "badrequest.interceptor.js" "authentication.service.js" "badrequest.service.js" "authentication.interceptor.js" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguideapi/brewguideapi/apps/analytics/" (22601 25248 601806 157000) "views.py" "models.py" "./" "__pycache__/" "config.py" "admin.py" "receivers.py" "serializers.py" "__init__.py" "urls.py" "../")
+
+ ("/home/mikhail/projects/me/go/src/github.com/MikhSol/hello/" (22615 43284 12053 587000) "./" "hello.go" ".git/" "../")
+
+ ("/home/mikhail/projects/me/go/src/github.com/MikhSol/" (22615 41851 533150 626000) "./" "hello/" "stringutil/" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguideapi/brewguideapi/apps/dictionary/" (22601 22640 601012 540000) "views.py" "models.py" "./" "__pycache__/" "admin.py" "migrations/" "serializers.py" "__init__.py" "urls.py" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguideapi/brewguideapi/apps/account/" (22601 22681 776878 842000) "views.py" "models.py" "mixins.py" "./" "__pycache__/" "tests.py" "config.py" "permissions.py" "signals.py" "fixtures/" "admin.py" "migrations/" "receivers.py" "serializers.py" "__init__.py" "urls.py" "tasks.py" "utilities.py" "../" "templates/")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguideapi/brewguideapi/apps/brewery/" (22601 22872 497152 324000) "views.py" "models.py" "utils.py" "./" "__pycache__/" "config.py" "admin.py" "migrations/" "receivers.py" "serializers.py" "__init__.py" "urls.py" "tasks.py" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/platforms/android/" (22598 64360 95897 111000) ".gradle/" "assets/" "phonegap-facebook-plugin/" "android.json" "settings.gradle" "platform_www/" "build.gradle" "./" "CordovaLib/" "gradlew" "build.xml" "res/" "gradle/" "build/" "AndroidManifest.xml" "src/" "local.properties" "project.properties" "libs/" ".gitignore" "../" "proguard-project.txt" "cordova/")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/" (22598 64610 406532 460000) "gulpfile.js" "hooks/" "scss/" "config.xml" "platforms/" "./" "plugins/" "www/" "ionic.config.json" ".io-config.json" ".bowerrc" "package.json" ".editorconfig" "resources/" "node_modules/" ".git/" "bower.json" ".gitignore" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/www/js/" (22598 64621 434655 429000) "app.route.js" "./" "app.config.js" "controllers/" "app.run.js" "app/" "app.module.js" "services/" "app.constants.js" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/www/js/controllers/" (22598 63922 906646 735000) "brewery-list.controller.js" "brewery-detail.controller.js" "brewery-wine-tab.controller.js" "home.controller.js" "side-menu.controller.js" "beer-list.controller.js" "message.controller.js" "brewery-info-tab.controller.js" "beer-detail.controller.js" "./" "brewery-location-tab.controller.js" "login.controller.js" "dictionary.controller.js" "inbox.controller.js" "brewmap.controller.js" "signup.controller.js" "brewery-beer-tab.controller.js" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/www/templates/" (22598 63980 619444 324000) "modal-ad.html" "brewery-location-tab.html" "brewery-detail.html" "signup.html" "home.html" "brewery-wine-tab.html" "inbox.html" "dictionary.html" "beer-detail.html" "./" "beer-favorite.html" "brewery-beer-tab.html" "message.html" "search-beer.html" "brewery-list.html" "search-brewery.html" "app.html" "nonfielderrors.html" "brewery-favorite.html" "login.html" "brewery-info-tab.html" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguide-mobile/www/" (22598 39644 246273 640000) "js/" "img/" "./" "lib/" "index.html" "../" "templates/" "css/")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguide-web/config/" (22597 36812 597803 100000) "production.config.json" "staging.config.json" "./" "local.config.json" "development.config.json" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguideapi/brewguideapi/apps/authentication/" (22597 39089 528316 993000) "views.py" "authentication.py" "utils.py" "./" "__pycache__/" "tests.py" "fixtures/" "serializers.py" "__init__.py" "urls.py" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguideapi/" (22597 36996 776698 806000) "manage_local.py" "Dockerfile" "docker-compose.yml" "manage.py" "docker-compose-development.yml" "brewguideapi/" "./" "manage_staging.py" "runtime.txt" ".dockerignore" "Procfile" ".git/" "requirements.txt" ".gitignore" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguide-web/src/app/analytics/" (22597 36635 675018 651000) "analytics.module.js" "analytics-dashboard.controller.js" "./" "chart.html" "chart.directive.js" "analytics-dashboard.html" "map.html" "map.directive.js" "analytics.service.js" "d3-map/" "../")
+
+ ("/home/mikhail/projects/webcleats/ba/brewguideapi/brewguideapi/apps/mobile/" (22593 50940 521808 842000) "views.py" "./" "__pycache__/" "migrations/" "serializers.py" "__init__.py" "urls.py" "../")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
